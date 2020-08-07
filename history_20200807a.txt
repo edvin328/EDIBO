@@ -1,0 +1,23 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox
+    4  dd
+    5  ls - l
+    6  ls -l
+    7  git clone https://github.com/edvin328/EDIBO
+    8  ls
+    9  pwd
+   10  ls- lt
+   11  ls -lt
+   12  cd EDIBO
+   13  LS
+   14  ls
+   15  ls- lt
+   16  ls -lt
+   17  ls - lta
+   18  ls -lta
+   19  cat README.md
+   20  hexdump -C README.md
+   21  nano README.md
+   22  fg
+   23  history > history_20200807a.txt

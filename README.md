@@ -5,6 +5,7 @@ EDIBO projekta elektroniska klade
 - LINUX Terminal (keyboard shortcuts)
 - Shell (basics)
 - Git (basics)  
+- ASCII table
 
 
 #### LINUX Terminal (keyboard shortcuts)  
@@ -37,4 +38,7 @@ EDIBO projekta elektroniska klade
 Github is a distributed version control system, which means that the entire codebase and history is available on every developer’s computer, which allows for easy branching and merging.
 
  
+#### ASCII (table)
+
+[ASCII table](https://raw.githubusercontent.com/wiki/tomgibara/ascii-table/tables/ascii-table-1.1.png)
  
