@@ -1,0 +1,1 @@
+# seit sekos python pieraksti

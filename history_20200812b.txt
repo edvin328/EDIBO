@@ -1,0 +1,12 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https:/github.com/edvin328/EDIBO
+    4  git clone https://github.com/edvin328/EDIBO
+    5  pwd
+    6  cd EDIBO
+    7  mkdir Python
+    8  cd Python
+    9  nano README.md
+   10  history > history_20200812b.txt
+   11  cd ..
+   12  history > history_20200812b.txt
