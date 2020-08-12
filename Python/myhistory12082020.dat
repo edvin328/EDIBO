@@ -1,0 +1,152 @@
+ 1/1: vars()
+ 1/2: a=10
+ 1/3: a
+ 1/4: type(a)
+ 1/5: dir(a)
+ 1/6: print(a.__doc__)
+ 2/1: ls
+ 2/2: ls -l
+ 2/3: cat second_python_script_like_executable.py
+ 2/4: less second_python_script_like_executable.py
+ 2/5: less second_python_script_like_executable.py
+ 2/6: a = 11
+ 2/7: b - 5
+ 2/8: b = 5
+ 2/9: a+b
+2/10: a-b
+2/11: a*b
+2/12: a/b
+2/13: less second_python_script_like_executable.py
+   1: 20%6
+   2: a=5
+   3: a=11
+   4: a*b
+   5: a=5
+   6: b=11
+   7: a/b
+   8: 20%6
+   9: 20/6
+  10: 20//6
+  11: 2**10
+  12: 2**100
+  13: 2**1000
+  14: 2**10000
+  15: time 2**10000
+  16: 2**11
+  17: 2**12
+  18: pwd
+  19: nano test-time
+  20: a=100
+  21: a
+  22: print(a)
+  23: if (11==11): print(YES")
+  24: if (11==11): print("YES")
+  25: if (11==21): print("YES")
+  26:
+if (11==12):
+    print ("Vienādi")
+  27:
+if (11==11):
+    print ("Vienādi")
+  28:
+if (11==11):
+    print ("Vienādi")
+else:
+    print("Nevienādi")
+  29:
+if (12==11):
+    print ("Vienādi")
+else:
+    print("Nevienādi")
+  30: %hist
+  31: %history - g - f myhistory.dat
+  32: ls
+  33: ls -l
+  34: %history - g - f myhistory.dat
+  35:
+if (12>11):
+    print ("False")
+elif(-3>-4):
+    print("True")
+  36:
+if (12<11):
+    print ("False")
+elif(-3==4):
+    print("True")
+else:
+    print("Final")
+  37:
+if (12<11):
+    print ("False")
+elif(4==4):
+    print("True")
+    c=33
+    print(2**c)
+else:
+    print("Final")
+  38: a=77
+  39:
+if (a>b):
+    print ("False")
+elif(-4==4):
+    print("True")
+    c=33
+    print(2**c)
+else:
+    print("Final")
+  40:
+if (a>b):
+    print ("False")
+elif(-4==4):
+    print("True")
+    c=33
+    print(2**c)
+else:
+    print("Final")
+  41: type(b)
+  42: type("Hello")
+  43: type(int("55))
+  44: type(int("55"))
+  45: 11<22
+  46: print(11<22)
+  47: print(11==22)
+  48: 11<"11"
+  49: 11<int("11")
+  50: type(11)
+  51: type(11)==type(22)
+  52: for i in a: print(a)
+  53: for i in "a": print(a)
+  54: for i in "EDIBO": print(i)
+  55: for i in "EDIBO": print(i):
+  56:
+for i in "EDIBO":
+    print(i)
+    print(i)
+  57: for i in "56O": print(i):
+  58:
+for i in range(10):
+    print(i)
+  59:
+for i in range(3,15,2):
+    print(i)
+  60:
+for i in range(3,15,2):
+    print(i)
+  61: a
+  62: b
+  63: b=55
+  64: b="55"
+  65: b
+  66: print("N=%d; S= %s" % (a,b))
+  67: b=55
+  68: print("N=%d; S= %s" % (a,b))
+  69: b=55
+  70: b
+  71: print("N=%d; S= %s" % (a,b))
+  72: print("N=%d; S= %s" % (a,b))
+  73: b= "EDIBO"
+  74: print("N=%d; S= %s" % (a,b))
+  75: a= "TEST"
+  76: print("N=%d; S= %s" % (a,b))
+  77: print("N=%d; S= %s" % (a,b))
+  78: %history -g -f myhistory12082020.dat
