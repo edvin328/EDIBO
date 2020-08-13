@@ -138,3 +138,16 @@
   138  cd Python
   139  history
   140  history > history_20200813.dat
+  141  cd EDIBO
+  142  cd ..
+  143  ./git-upload
+  144  mv a.dat Python
+  145  cd
+  146  ls 
+  147  cd EDIBO/
+  148  cd -
+  149  cd EDIBO/Python/
+  150  LS
+  151  ls
+  152  ls -l
+  153  history > history_20200813.dat
