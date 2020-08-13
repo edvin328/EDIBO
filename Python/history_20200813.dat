@@ -1,0 +1,140 @@
+    1  sudo adduser edvin328 vboxsf
+    2  git clone https://github.com/edvin328/EDIBO
+    3  man git
+    4  pwd
+    5  man git
+    6  pwd
+    7  cd
+    8  pwd
+    9  man git
+   10  ls
+   11  ls -l
+   12  pwd
+   13  git clone https://github.com/edvin328/EDIBO
+   14  sudo apt install git
+   15  git clone https://github.com/edvin328/EDIBO
+   16  pwd
+   17  cd ..
+   18  cd EDIBO
+   19  PWD
+   20  pwd
+   21  cd
+   22  pwd
+   23  cd EDIBO
+   24  mk dir SHELL
+   25  mkdir SHELL
+   26  nano dec2bin.sh
+   27  ./sec2bin.sh
+   28  ./dec2bin.sh
+   29  chmod 777 bin2dec.sh
+   30  ls -lt
+   31  chmod 777 bin2dec.sh
+   32  pwd
+   33  ls -lt
+   34  chmod 777 dec2bin.sh
+   35  ls -lt
+   36  ./dec2bin.sh
+   37  ./git-upload
+   38  ./dec2bin.sh
+   39  pwd
+   40  mkdir Python
+   41  cd Python
+   42  nano README.md
+   43  man sudo
+   44  man sudo apt
+   45  man apt
+   46  pwd
+   47  python
+   48  sudo apt-get install python3
+   49  python3
+   50  python
+   51  ipython
+   52  sudo apt-get install python
+   53  python
+   54  ipython
+   55  sudo apt-get install python2
+   56  sudo apt-get install python
+   57  python
+   58  python3
+   59  sudo apt-get install ipython
+   60  ipython
+   61  sudo apt-get install ipython3
+   62  ipython
+   63  ipython3
+   64  python
+   65  git clone https://github.com/edvin328/EDIBO
+   66  edibo
+   67  cd EDIBO
+   68  cd Python
+   69  ls
+   70  ls -lt
+   71  ls
+   72  ls -lt
+   73  la
+   74  ls -lt
+   75  git clone https://github.com/edvin328/EDIBO
+   76  cd
+   77  git clone https://github.com/edvin328/EDIBO
+   78  ls -lt
+   79  cd EDIBO
+   80  ls -lt
+   81  cd Python
+   82  ls-lt
+   83  ls -lt
+   84  git clone https://github.com/edvin328/EDIBO
+   85  cd
+   86  git clone https://github.com/edvin328/EDIBO
+   87  rm -rf EDIBO/
+   88  ls -lt
+   89  git clone https://github.com/edvin328/EDIBO
+   90  cd EDIBO
+   91  cd Python
+   92  git clone https://github.com/IngaPedane/EDIBO/blob/master/python_script_2.py
+   93  ls-lt
+   94  ls -lt
+   95  nano milzigs_skaitlis.py
+   96  ./milzigs_skaitlis.py
+   97  nano milzigs_skaitlis.py
+   98  chmod 777 milzigs_skaitlis.py
+   99  ./milzigs_skaitlis.py
+  100  ./ milzigs_skaitlis.py
+  101  ls -lt
+  102  ./milzigs_skaitlis.py
+  103  nano milzigs_skaitlis.py
+  104  ./milzigs_skaitlis.py
+  105  nano milzigs_skaitlis.py
+  106  setxkbmap lv
+  107  ./milzigs_skaitlis.py
+  108  nano milzigs_skaitlis.py
+  109  ./milzigs_skaitlis.py
+  110  nano milzigs_skaitlis.py
+  111  ./milzigs_skaitlis.py
+  112  nano milzigs_skaitlis.py
+  113  ./milzigs_skaitlis.py
+  114  nano milzigs_skaitlis.py
+  115  ./milzigs_skaitlis.py
+  116  nano milzigs_skaitlis.py
+  117  ./milzigs_skaitlis.py
+  118  nano milzigs_skaitlis.py
+  119  $idle
+  120  idle$
+  121  idle&
+  122  sudo apt install idle
+  123  idle&
+  124  ./git-upload
+  125  cd EDIBO
+  126  ./git-upload
+  127  ./ git-upload
+  128  ls -lt
+  129  cd EDIBO
+  130  cd ..
+  131  ls -lt
+  132  ./git-upload
+  133  nano git-upload
+  134  ipython
+  135  ipython3
+  136  echo Hello > a.dat
+  137  ipython3
+  138  cd Python
+  139  history
+  140  history > history_20200813.dat
