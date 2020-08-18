@@ -74,7 +74,7 @@ c
 d
 e
 f
->>> fruit = 'banana'
+>>> 
 >>> fruit[:3]
 'ban'
 >>> fruit[3:]
@@ -83,4 +83,4 @@ f
 'banana'
 >>> fruit[3:3]
 ''
->>> 
+>>> fruit = 'banana'

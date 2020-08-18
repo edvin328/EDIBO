@@ -1,0 +1,26 @@
+echo "Fibonacci rindas kārtas skaitlis:" $1
+n=$1
+a=0
+b=1
+while [ "$n" != 0 ]
+echo "Fibonacci rindas kārtas skaitlis:" $1
+n=$1
+a=0
+b=1
+while [ "$n" != 0 ]
+#!/bin/bash
+
+echo "Fibonacci rindas kārtas skaitlis:" $1
+n=$1
+a=0
+b=1
+while [ "$n" != 0 ]
+b=1
+ 
+for (( n=1; $n<=16; n=$n+1 ));
+do
+  a=$(($a + $b))
+  echo -n "$a, "
+  b=$(($a - $b))
+done
+echo "..."
