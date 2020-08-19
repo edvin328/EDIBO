@@ -21,7 +21,7 @@ It is used for:
 - vars() - returns the __dict__ property of an object;
 - type() - returns the type of an object;
 - str()	- returns a string object;
-- len() - returns the length of an object;
+- len() - returns the length of an object.
 
 #### [Strings](https://www.py4e.com/html3/06-strings)
 #### [Functions](https://www.py4e.com/html3/04-functions)
