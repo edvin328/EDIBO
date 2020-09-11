@@ -16,6 +16,7 @@ import { MatListModule } from '@angular/material/list';
 import { MatButtonModule } from '@angular/material/button';
 import { MatTabsModule } from '@angular/material/tabs';
 import { MatTableModule } from '@angular/material/table';
+import { MatPaginatorModule } from '@angular/material/paginator';
 
 
 
@@ -24,6 +25,8 @@ import { MatTableModule } from '@angular/material/table';
 
 import { ButtonOverviewExample } from './Buttons/button-overview-example';
 import { TableBasicExample } from './Table/table-basic-example';
+import { TablePaginationExample } from './TableRND/table-pagination-example';
+import { SomeService } from './TableRND/some.service';
 //import { DatepickerFilterExample } from './datepicker-filter-example';
 
 @NgModule({
@@ -31,7 +34,8 @@ import { TableBasicExample } from './Table/table-basic-example';
     AppComponent,
     //DatepickerFilterExample,
     ButtonOverviewExample,
-    TableBasicExample
+    TableBasicExample,
+    TablePaginationExample
   ],
   imports: [
     BrowserModule,
@@ -48,9 +52,12 @@ import { TableBasicExample } from './Table/table-basic-example';
     MatListModule,
     MatButtonModule,
     MatTabsModule,
-    MatTableModule
+    MatTableModule,
+    MatPaginatorModule
   ],
-  providers: [],
+  providers: [
+    SomeService
+  ],
   bootstrap: [AppComponent, ButtonOverviewExample, TableBasicExample]
 })
 export class AppModule { }

@@ -1,4 +1,5 @@
 import {Component} from '@angular/core';
+import { THIS_EXPR } from '@angular/compiler/src/output/output_ast';
 
 export interface PeriodicElement {
   name: string;
@@ -30,5 +31,24 @@ const ELEMENT_DATA: PeriodicElement[] = [
 })
 export class TableBasicExample {
   displayedColumns: string[] = ['position', 'name', 'weight', 'symbol'];
-  dataSource = ELEMENT_DATA;
+  dataSource = [];
+  OnOffFlag=false;
+  buttonColor="warn";
+  buttonText="Data Off";
+
+
+  refresh() {
+    if (this.OnOffFlag ==false)
+    {this.dataSource=ELEMENT_DATA;
+      this.OnOffFlag=true;
+      this.buttonColor="primary";
+      this.buttonText="Data On"}
+
+    else
+    {this.dataSource=[];
+      this.OnOffFlag=false;
+      this.buttonColor="warn";
+      this.buttonText="Data Off"}
+  }
+  
 }
